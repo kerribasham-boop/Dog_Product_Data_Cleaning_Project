@@ -1,4 +1,4 @@
-# Dog Product Sales Data Entry and Cleaning Project
+# Dog Product Sales Data Cleaning Project
 
 A data entry and data cleaning project using Google Sheets.
 
